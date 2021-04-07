@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on a website for a company I and my friend started.
 - 🌱 I’m currently learning react, vue and other web technology.
 - 👯 I’m looking to collaborate on game art and animations.
-- 🤔 I'm currently doubltful on styles.
+- 🤔 I'm currently doubltful on how to make a online code compiler.
 - 💬 Ask me about web tech, c#, game dev with godot etc.
 - ⚡ Fun fact: I am a 12 year old programmer
 
